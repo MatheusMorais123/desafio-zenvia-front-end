@@ -1,0 +1,48 @@
+#count {
+    display: inline;
+    margin: 0 15px;
+}
+
+#total-amount {
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#available-amount {
+    position: absolute;
+    top: 40px;
+    right: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#my-amount {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+}
+
+#main {
+    margin-top: 70px;
+    margin-left: 48px;
+    text-align: center;
+}
+
+table {
+    min-width: 90vw;
+    margin-top: 32px;
+}
+
+td {
+    padding: 4px 16px;
+}
+
+thead {
+    font-weight: bold;
+}
